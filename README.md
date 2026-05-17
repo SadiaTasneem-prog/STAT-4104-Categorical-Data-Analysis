@@ -12,4 +12,6 @@ Student's ID      :   12110011
 
 Registration No   :  000015874
 
+Session           : 2021-2022 
+
 Objective         : This repository contains statistical modeling solutions for Problems 1–11, focusing on GLMs, Poisson, and Negative Binomial regressions.
